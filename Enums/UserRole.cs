@@ -1,6 +1,9 @@
 ﻿namespace EsapApi.Enums
 {
-    public class UserRole
+    public enum UserRole
     {
+        Admin,
+        Seller,
+        Buyer
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsapApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2398a636491fe20a8b23ef0c5e6ab5573aaf092a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a85bc39a232418339dc85cafdb07d3a7ad717d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsapApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsapApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

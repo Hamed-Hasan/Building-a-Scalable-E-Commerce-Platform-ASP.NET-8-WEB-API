@@ -1,16 +1,27 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using EsapApi.Enums;
+using System.ComponentModel.DataAnnotations;
 
 namespace EsapApi.Models
 {
-    public class Users
+    public class User
     {
         [Key]
-        public int userId { get; set; }
+        public int UserId { get; set; }
 
         [Required]
-        public String name { get; set; } = "";
+        public string Name { get; set; } = "";
 
         [Required]
-        public String address { get; set; } = "";
+        public string Email { get; set; } = ""; // Added for authentication
+
+        [Required]
+        public string PasswordHash { get; set; } = ""; // Store password securely
+
+        public string Address { get; set; } = "";
+
+        // Role property using UserRole enum
+        [Required]
+        public UserRole Role { get; set; }
+
     }
 }

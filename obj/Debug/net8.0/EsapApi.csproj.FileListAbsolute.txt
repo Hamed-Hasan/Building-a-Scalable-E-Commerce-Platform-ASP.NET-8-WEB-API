@@ -260,3 +260,4 @@ D:\ASP.NET API\EsapApi\EsapApi\obj\Debug\net8.0\refint\EsapApi.dll
 D:\ASP.NET API\EsapApi\EsapApi\obj\Debug\net8.0\EsapApi.pdb
 D:\ASP.NET API\EsapApi\EsapApi\obj\Debug\net8.0\EsapApi.genruntimeconfig.cache
 D:\ASP.NET API\EsapApi\EsapApi\obj\Debug\net8.0\ref\EsapApi.dll
+D:\ASP.NET API\EsapApi\EsapApi\obj\Debug\net8.0\EsapApi.sourcelink.json

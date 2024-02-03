@@ -1,6 +1,11 @@
 ﻿namespace EsapApi.Enums
 {
-    public class OrderStatus
+    public enum OrderStatus
     {
+        Pending,
+        Paid,
+        Shipped,
+        Delivered,
+        Cancelled
     }
 }
